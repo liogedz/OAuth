@@ -80,8 +80,9 @@ After completing the configuration:
 mvn spring-boot:run
 ```
 
-Navigate to `http://localhost:8080` and you should see `"Hey! Without security"`.
-Navigate to `http://localhost:8080/secure` and you should see login options for GitHub and Google.
+- Navigate to `http://localhost:8080` and you should see `"Hey! Without security"`.
+- Navigate to `http://localhost:8080/secure` and you should see login options for GitHub and Google.
+
 ---
 
 ## 📝 Notes
