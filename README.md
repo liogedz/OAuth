@@ -99,6 +99,10 @@ Feel free to submit issues and enhancement requests!
 
 ---
 
-## 📄 License
+## License
 
-[Your License Here]
+MIT License - feel free to use for learning purposes
+
+## Contact
+
+[Aleksei Gedz] - [https://www.linkedin.com/in/aleksei-gedz-b1ba5561/]
